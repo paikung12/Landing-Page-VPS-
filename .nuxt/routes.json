@@ -1,0 +1,51 @@
+[
+  {
+    "name": "create",
+    "path": "/create",
+    "component": "/Users/auttapongkompiban/Spec_dev/lernNuxtjs/pages/create.vue",
+    "chunkName": "pages/create"
+  },
+  {
+    "name": "delete",
+    "path": "/delete",
+    "component": "/Users/auttapongkompiban/Spec_dev/lernNuxtjs/pages/delete.vue",
+    "chunkName": "pages/delete"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/auttapongkompiban/Spec_dev/lernNuxtjs/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "refound",
+    "path": "/refound",
+    "component": "/Users/auttapongkompiban/Spec_dev/lernNuxtjs/pages/refound.vue",
+    "chunkName": "pages/refound"
+  },
+  {
+    "path": "/table",
+    "component": "/Users/auttapongkompiban/Spec_dev/lernNuxtjs/pages/table.vue",
+    "chunkName": "pages/table",
+    "children": [
+      {
+        "name": "table",
+        "path": "",
+        "component": "/Users/auttapongkompiban/Spec_dev/lernNuxtjs/pages/table/index.vue",
+        "chunkName": "pages/table/index"
+      }
+    ]
+  },
+  {
+    "name": "update",
+    "path": "/update",
+    "component": "/Users/auttapongkompiban/Spec_dev/lernNuxtjs/pages/update.vue",
+    "chunkName": "pages/update"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/auttapongkompiban/Spec_dev/lernNuxtjs/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
